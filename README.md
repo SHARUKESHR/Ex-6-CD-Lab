@@ -2,8 +2,6 @@
 
 IMPLEMENTATION OF THE BACK END OF THE COMPILER 
 
-# Date :07 / 11 / 2024
-
 # Aim :
 To write a program to implement the back end of the compiler.
 
